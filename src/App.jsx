@@ -1,11 +1,16 @@
 import React from 'react'
+import Nav from './components/Nav'
+import Hero from './components/Hero'
+import {useEffect} from 'react'
 function App() {
+  // useEffect(()=>{
+  //   AOS.init();
+  // })
 
   return (
-    <div className='bg-[#0D1F23]'>
-      <h1 className='text-4xl font-bold'>chuks
-
-      </h1>
+    <div className='bg-[rgb(13,31,35)]'>
+      <Nav/>
+      <Hero/>
     </div>
   )
 }
