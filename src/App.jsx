@@ -1,6 +1,4 @@
 import React from 'react'
-import Nav from './components/Nav'
-import Hero from './components/Hero'
 import {useEffect} from 'react'
 function App() {
   // useEffect(()=>{
@@ -9,8 +7,7 @@ function App() {
 
   return (
     <div className='bg-[rgb(13,31,35)]'>
-      <Nav/>
-      <Hero/>
+      
     </div>
   )
 }
