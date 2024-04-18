@@ -8,7 +8,7 @@ const Hero = () => {
 </h1>
 <h2 className='text-5xl font-bold mb-7'>Your Money. Your Way.
 </h2>
-<h1 className=' text-2xl w-[50rem] mb-7'>Whether you are an individual or business, we can help you put super controls on your money using technology.
+<h1 className=' text-2xl w-[50rem] mb-7 text-center'>Whether you are an individual or business, we can help you put super controls on your money using technology.
 
 </h1>
 
