@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className='mt-[12rem] flex flex-col  space-x-10 items-center justify-between text-white min-h-[screen]'>
+    <div className='mt-[10rem] flex flex-col  space-x-10 items-center justify-between text-white min-h-[screen]'>
         <h1 className='text-[#A1DDC2] text-2xl text-bold mb-7' >Allawee is a financial technology platform built with <span className='text-white'>YOU</span> in mind.
 
 </h1>
