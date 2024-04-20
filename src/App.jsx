@@ -1,10 +1,8 @@
 import React from 'react'
 import {useEffect} from 'react'
-import Nav from "./components/Nav"
-import Hero from "./components/Hero"
-import Info from "./components/Info"
-import Footer from './components/Footer'
-import Bottom from './components/Bottom'
+import Home from './components/Home/Home'
+
+import Personal from './components/Personal/Personal'
 
 function App() {
   // useEffect(()=>{
@@ -12,12 +10,9 @@ function App() {
   // })
 
   return (
-    <div className='mx-[5rem]'>
-      <Nav/>
-      <Hero/>
-    <Info/>
-    <Footer/>
-    <Bottom/>
+    <div className='min-h-[500rem]'>
+      {/* <Home/> */}
+      <Personal/>
       
       
     </div>
