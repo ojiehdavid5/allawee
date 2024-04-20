@@ -1,13 +1,23 @@
 import React from 'react'
+import {useEffect} from "react"
+import AOS from 'aos'
+import "aos/dist/aos.css"
+
 
 import img1 from "../assets/chinwa.svg"
 import card from "../assets/card.png"
 import Laptop from "../assets/laptop2.png"
 
 
+
 const Info = () => {
+  useEffect(()=>{
+    AOS.init({
+      duration: 2600
+    });
+  })
   return (
-    <div className='mt-[20rem] min-h-screen flex justify-center items-center w-full mb-[10rem]'>
+    <div className='mt-[20rem] min-h-screen flex justify-center items-center w-full mb-[10rem]  data-aos="fade-right" '>
         <div className=' bg-white w-[25rem] h-[40rem] mr-4 rounded-3xl flex flex-col justify-between items-center'>
             <button className='bg-[#DBFAC8] p-2 w-[10rem] rounded-md mt-5 -ml-[12rem] -mb-[5rem]'>
                <a className='text-1xl mt-3 '>For individual</a> 
