@@ -4,9 +4,9 @@ import AOS from 'aos'
 import "aos/dist/aos.css"
 
 
-import img1 from "../assets/chinwa.svg"
-import card from "../assets/card.png"
-import Laptop from "../assets/laptop2.png"
+import img1 from "../../assets/chinwa.svg"
+import card from "../../assets/card.png"
+import Laptop from "../../assets/laptop2.png"
 
 
 

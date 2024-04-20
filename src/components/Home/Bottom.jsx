@@ -1,6 +1,6 @@
 import React from 'react'
 
-import allawee from "../assets/allawee.svg"
+import allawee from "../../assets/allawee.svg"
 
 const Bottom = () => {
   return (
