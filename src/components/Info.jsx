@@ -10,6 +10,9 @@ import Laptop from "../assets/laptop2.png"
 
 
 
+
+
+
 const Info = () => {
   useEffect(()=>{
     AOS.init({
