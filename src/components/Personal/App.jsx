@@ -37,7 +37,7 @@ const App = () => {
       </div>
       <img src={phone2} alt="phone2"/>
     </div>
-    <div className="min-w-screen py-[32px] px-[96px] h-[10rem] rounded-md bg-[#b8caac40] border border-[#dbfdc840]">
+    <div className="min-w-screen py-[32px] px-[96px] h-[10rem] rounded-md bg-[#b8caac40] border border-[#dbfdc840] -mt-[9rem]">
 
         <div className=" w-[70rem] h-[5rem]   bg-[#0B1032] border border-[#DBFDC8] rounded-md flex justify-center items-center">
 <h2 className="text-4xl text-[#C6A0D2]">Where every $ writes it story </h2>
