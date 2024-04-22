@@ -1,23 +1,29 @@
-import React from "react";
+import React, { useEffect } from "react";
 import phone1 from "../../assets/personal/phone1.png";
 import phone2 from "../../assets/personal/phone2.png";
 import Appstore from "../../assets/personal/Appstore.png";
 import Googleplay from "../../assets/personal/Googleplay.png";
 
 import Arrow from "../../assets/personal/arrow.svg";
+import AOS from 'aos'
+import "aos/dist/aos.css"
+
 
 const App = () => {
+  useEffect(() => {
+    AOS.init();
+  }, []); // Empty dependency array if you want the effect to run only once on component mount
   return (
     <div>
     <div className="flex flex-row mt-[5rem] items-center justify-center min-h-screen">
-      <img src={phone1} className="w-[20rem]" alt="phone1" />
+      <img src={phone1} className="w-[20rem]"data-aos="fade-right" alt="phone1" />
       <div className="flex flex-col  -mt-[12rem]">
         <p className="text-white  text-center mb-9 ">
           Meet Allawee, your personal money buddy that lets you
           <br /> spend like a local in any country.
         </p>
         <div className="flex flex-row space-x-4 -">
-          <img src={Appstore} className="image w-[15rem]" alt="appstore" />
+          <img src={Appstore} className="image w-[15rem] "    alt="appstore" />
 
           <img src={Googleplay} className="image w-[15rem]" alt="googleplay" />
         </div>
@@ -35,7 +41,7 @@ const App = () => {
           </p>
         </span>
       </div>
-      <img src={phone2} alt="phone2"/>
+      <img src={phone2} data-aos="fade-left"alt="phone2"/>
     </div>
     <div className="min-w-screen py-[32px] px-[96px] h-[10rem] rounded-md bg-[#b8caac40] border border-[#dbfdc840] -mt-[9rem]">
 
