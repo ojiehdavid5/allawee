@@ -5,6 +5,7 @@ import Hero from './Hero'
 import App from './App'
 import Tourist from './Tourist'
 import Uses from './Uses'
+import Faqs from './Faqs'
 
 const Personal = () => {
   return (
@@ -14,6 +15,7 @@ const Personal = () => {
 <App/>
 <Tourist/>
 <Uses/>
+<Faqs/>
       
     </div>
   )
