@@ -48,10 +48,11 @@ const Uses = () => {
 
 
         <div className=" h-[790px] w-[624px] bg-white flex flex-col items-center rounded-lg p-7 z-0">
+          <div className='w-full bg-[#F0FDE8] flex justify-center items-center'>
           <img src={personal}
           className='w-[48vh] mt-[3rem] bg-[#F0FDE8]  box-border'
           alt='personal'/>
-
+</div>
           <h2 className='text-black  box-border text-4xl text-center mt-5 font-medium'>Create multiple cards for<br/> yourself or loved ones and set<br/> controls on them</h2>
 
 
@@ -80,9 +81,12 @@ const Uses = () => {
 
 
 </div>
+          <div className='w-full flex justify-center items-center  bg-[#fbe8fd]'>
+
                       <img src={half}
-          className='w-[48vh] mt-[3rem] bg-[#F0FDE8]  box-border'
+          className='w-[48vh] mt-[3rem] bg-[#fbe8fd]  box-border'
           alt='personal'/>
+          </div>
 
 
         </div>
