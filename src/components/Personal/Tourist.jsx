@@ -4,6 +4,10 @@ import {useEffect } from 'react'
 import skate from '../../assets/personal/boyskate.png'
 import Appstore from "../../assets/personal/Appstore.png";
 import Googleplay from "../../assets/personal/Googleplay.png";
+
+
+
+
 import AOS from 'aos'
 import "aos/dist/aos.css"
 
