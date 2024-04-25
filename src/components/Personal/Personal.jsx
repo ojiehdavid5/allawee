@@ -5,7 +5,7 @@ import Hero from './Hero'
 import App from './App'
 import Tourist from './Tourist'
 import Uses from './Uses'
-import Faqs from './Faqs'
+// import faq from './faq'
 
 const Personal = () => {
   return (
@@ -15,7 +15,7 @@ const Personal = () => {
 <App/>
 <Tourist/>
 <Uses/>
-<Faqs/>
+{/* <faq/> */}
       
     </div>
   )
