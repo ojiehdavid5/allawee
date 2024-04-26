@@ -6,6 +6,10 @@ import App from './App'
 import Tourist from './Tourist'
 import Uses from './Uses'
 import Faq from './Faq'
+import Importance from './Importance'
+import Social from './Social'
+import Footer from './Footer'
+
 
 import Slide from './Slide'
 const Personal = () => {
@@ -18,6 +22,9 @@ const Personal = () => {
 <Uses/>
 <Faq/>
 <Slide/>
+<Importance/>
+<Social/>
+<Footer/>
       
     </div>
   )
