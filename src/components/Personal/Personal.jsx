@@ -7,6 +7,7 @@ import Tourist from './Tourist'
 import Uses from './Uses'
 import Faq from './Faq'
 
+import Slide from './Slide'
 const Personal = () => {
   return (
     <div className='mx-10 bg-[#0B1032] mih-h-screen'>
@@ -16,6 +17,7 @@ const Personal = () => {
 <Tourist/>
 <Uses/>
 <Faq/>
+<Slide/>
       
     </div>
   )
