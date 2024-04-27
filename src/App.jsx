@@ -10,12 +10,12 @@ function App() {
   // })
 
   return (
-    <div className='min-h-[500rem]'>
-      {/* <Home/> */}
-      <Personal/>
+    <>
+      <Home/>
+      {/* <Personal/> */}
       
       
-    </div>
+    </>
   )
 }
 

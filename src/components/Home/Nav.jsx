@@ -5,7 +5,7 @@ const Nav = () => {
   return (
     <header className='w-full h-[6rem] flex justify-center items-center'>
       <nav className='w-full h-16 flex flex-row justify-between  items-center'>
-        <h1 className='text-2xl text-white ml-1'>
+        <h1 className='text-2xl text-white ml-1 max-lg:hidden'>
           Blog
         </h1>
         <div>
@@ -13,7 +13,7 @@ const Nav = () => {
 
         </div>
 
-        <h1 className='text-2xl text-white mr-5'>
+        <h1 className='text-2xl text-white mr-5 max-lg:hidden'>
           Career
           </h1>
 

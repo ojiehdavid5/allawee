@@ -8,7 +8,7 @@ import Footer from './Footer'
 const Home = () => {
   return (
 
-          <div className='mx-[5rem]  '>
+          <div className='mx-[5rem]  max-lg:mx-0  '>
       <Nav/>
       <Hero/>
     <Info/>
