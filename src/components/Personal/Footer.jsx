@@ -15,6 +15,7 @@ const Footer = () => {
             <p className='text-wrap text-[#D6F5C5]'>Phone line: +234-818-414-6005<br/>
 9am - 5pm Monday - Friday.</p>
         </div>
+        
       
     </div>
   )
