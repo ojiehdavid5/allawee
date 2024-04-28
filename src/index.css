@@ -4,10 +4,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-.img{
-    aspect-ratio: auto 20/ 48;
-	max-width: 100%;
-	overflow: clip;
-	vertical-align: middle;
-    /* background-color: #0D1F23; */
-}
