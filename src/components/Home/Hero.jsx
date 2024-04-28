@@ -2,8 +2,8 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className='mt-[10rem] max-lg:mt-[3rem] flex flex-col   items-center justify-between text-white  '>
-        <h1 className='text-[#A1DDC2] text-2xl text-bold mb-7 max-lg:text-[2rem]  text-center' >Allawee is a financial technology platform built with <span className='text-white'>YOU</span> in mind.
+    <div className='mt-[10rem] max-lg:mt-[10rem] flex flex-col   items-center justify-between text-white  max-lg:w-[20rem] max-lg:h-[10rem]  '>
+        <h1 className='text-[#A1DDC2] text-2xl text-bold mb-7 max-lg:text-[25px]  text-center' >Allawee is a financial technology platform built with <span className='text-white'>YOU</span> in mind.
 
 </h1>
 <h2 className='text-5xl font-bold mb-7'>Your Money. Your Way.
