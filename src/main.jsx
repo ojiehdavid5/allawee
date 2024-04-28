@@ -5,6 +5,6 @@ import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App  className='bg-[#0D1F23] '/>
+    <App  className=' '/>
   </React.StrictMode>,
 )
