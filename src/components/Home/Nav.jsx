@@ -3,13 +3,16 @@ import Logo from '../../assets/logo.svg'
 
 const Nav = () => {
   return (
-    <header className='w-full h-[6rem] flex justify-center items-center'>
+    <header className='w-full max-lg:w-[10rem] h-[6rem] flex justify-center items-center'>
       <nav className='w-full h-16 flex flex-row justify-between  items-center'>
         <h1 className='text-2xl text-white ml-1 max-lg:hidden'>
           Blog
         </h1>
-        <div>
-          <img src={Logo} alt='logo'/>
+        <div className=''>
+          <img src={Logo}
+          className='max-lg:ml-[6rem] max-lg:w-[7rem] max-lg:mt-[2rem]' 
+          
+          alt='logo'/>
 
         </div>
 
