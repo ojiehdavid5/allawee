@@ -14,7 +14,7 @@ import Footer from './Footer'
 import Slide from './Slide'
 const Personal = () => {
   return (
-    <div className='mx-10 bg-[#0B1032] mih-h-screen'>
+    <div className='mx-10 bg-[#0D1F23] mih-h-screen'>
         <Nav/>
 <Hero/>
 <App/>

@@ -10,10 +10,3 @@ body{
     background-color: #0B1032;
 }
 
-.image{
-    aspect-ratio: auto 20/ 48;
-	max-width: 100%;
-	overflow: clip;
-	vertical-align: middle;
-    /* background-color: #0D1F23; */
-}
