@@ -6,7 +6,7 @@ const Bottom = () => {
   return (
     <div className='w-full'>
         <img src={allawee}
-        className='w-full'
+        className='w-[20rem]'
          alt='allawee'/>
       
     </div>
