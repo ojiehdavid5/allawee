@@ -10,8 +10,11 @@ function App() {
   // })
 
   return (
-    <>
-      <Home/>
+    < >
+    <div className="max-lg:flex max-lg:items-center max-lg:flex-shrink-0  flex-shrink mx-[2rem] ">
+    <Home/>
+
+    </div>
       {/* <Personal/> */}
       
       
