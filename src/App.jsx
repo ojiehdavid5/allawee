@@ -11,7 +11,7 @@ function App() {
 
   return (
     < >
-    <div className="max-lg:flex max-lg:items-center max-lg:flex-shrink-0  flex-shrink mx-[2rem] ">
+    <div className="max-lg:flex max-lg:items-center max-lg:flex-shrink-0  flex-shrink max-lg:p-5 ">
     <Home/>
 
     </div>
