@@ -10,7 +10,7 @@ const Nav = () => {
         </h1>
         <div className=''>
           <img src={Logo}
-          className='max-lg:ml-[6rem] max-lg:w-[7rem] max-lg:mt-[2rem]' 
+          className='max-lg:ml-[8rem] max-lg:w-[7rem] max-lg:mt-[2rem]' 
           
           alt='logo'/>
 
