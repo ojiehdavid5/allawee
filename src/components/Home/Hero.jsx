@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className='mt-[10rem] max-lg:mt-[10rem] flex flex-col   items-center justify-between text-white  max-lg:w-[20rem] max-lg:h-[10rem]  '>
+    <div className='mt-[10rem] max-lg:mb-[20rem] flex flex-col   items-center justify-between text-white  max-lg:w-[20rem] max-lg:h-[10rem]   '>
         <h1 className='text-[#A1DDC2]  text-bold mb-7 max-lg:text-2xl max-lg:w-[20rem]  text-xl text-center max-lg:ml-[4rem]' >Allawee is a financial technology platform built with <span className='text-white'>YOU</span> in mind.
 
 </h1>
@@ -13,7 +13,7 @@ const Hero = () => {
 
 </h1>
 
-<h2 className='mb-7 text-2xl max-lg:ml-[6rem]'>We believe in freedom & happiness!</h2>
+<h2 className='mb-7 text-2xl max-lg:ml-[6rem] '>We believe in freedom & happiness!</h2>
 
 
 
