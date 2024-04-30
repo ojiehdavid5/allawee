@@ -11,11 +11,11 @@ function App() {
 
   return (
     < >
-    <div className="max-lg:flex max-lg:items-center   ">
+    {/* <div className="max-lg:flex max-lg:items-center   ">
     <Home/>
 
-    </div>
-      {/* <Personal/> */}
+    </div> */}
+      <Personal/>
       
       
     </>
