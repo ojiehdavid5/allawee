@@ -20,8 +20,8 @@ const Info = () => {
     });
   })
   return (
-    <div className='mt-[20rem] min-h-screen flex justify-center items-center w-full mb-[10rem]   data-aos="fade-right"  max-lg:block'>
-        <div className=' bg-white w-[25rem] h-[40rem] mr-4 rounded-3xl flex flex-col justify-between items-center max-lg:mb-[10rem]'>
+    <div className='mt-[20rem] min-h-screen flex justify-center items-center w-full mb-[10rem]   data-aos="fade-right"  max-lg:block max-lg:mt-[30rem] max-lg:space-y-8  '>
+        <div className=' bg-white w-[25rem] h-[40rem] mr-4 rounded-3xl flex flex-col justify-between items-center  max-lg:h-[45rem] '>
             <button className='bg-[#DBFAC8] p-2 w-[10rem] rounded-md mt-5 -ml-[12rem] -mb-[5rem]'>
                <a className='text-1xl mt-3 '>For individual</a> 
             </button>
@@ -32,7 +32,7 @@ Live like a Tourist</h1>
 
         </div>
 
-        <div className='  bg-white w-[25rem] h-[40rem] mr-4 rounded-3xl flex  flex-col justify-between items-center'>
+        <div className='  bg-white w-[25rem] h-[40rem] mr-4 rounded-3xl flex  flex-col justify-between items-center max-lg:h-[45rem]'>
 
         <button className='bg-[#ADECCF] p-3 rounded-md mt-5 -ml-[12rem] -mb-[5rem]'>
                <a className='text-1xl'>For business</a> 
@@ -47,7 +47,7 @@ alt=''/>
 
         </div>
 
-        <div className='  bg-white w-[25rem] h-[40rem] mr-4 rounded-3xl  flex flex-col justify-between items-center'>
+        <div className='  bg-white w-[25rem] h-[40rem] mr-4 rounded-3xl  flex flex-col justify-between items-center max-lg:h-[45rem]'>
 
         <button className='bg-[#D6B9FB] p-3 rounded-md mt-5 -ml-[6rem] -mb-[1rem]'>
                <a className='text-1xl'>For developers building apps</a> 

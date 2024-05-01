@@ -4,9 +4,9 @@ import allawee from "../../assets/allawee.svg"
 
 const Bottom = () => {
   return (
-    <div className='w-full'>
+    <div className='w-full max-lg:ml-[3rem]'>
         <img src={allawee}
-        className='w-[20rem]'
+        className=' max-lg:w-[20rem] w-[50rem]'
          alt='allawee'/>
       
     </div>

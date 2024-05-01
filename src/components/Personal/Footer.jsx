@@ -1,5 +1,7 @@
 import React from 'react'
 
+import  chow from '../../assets/personal/chow.svg'
+
 const Footer = () => {
   return (
     <div className='w-full h-[10rem] mt-10 flex flex-row space-x-2'>
@@ -14,6 +16,10 @@ const Footer = () => {
             <p className='text-wrap text-[#D6F5C5]'> Our official support email: support@allawee.com</p>
             <p className='text-wrap text-[#D6F5C5]'>Phone line: +234-818-414-6005<br/>
 9am - 5pm Monday - Friday.</p>
+<img src={chow} 
+className='hover:animate-spin'
+
+alt='chow'/>
         </div>
         
       

@@ -13,7 +13,7 @@ const Hero = () => {
 
 </h1>
 
-<h2 className='mb-7 text-2xl max-lg:ml-[6rem] '>We believe in freedom & happiness!</h2>
+<h2 className='mb-7 text-2xl max-lg:ml-[6rem]  text-center  max-lg:w-[20rem] max-lg:mt-[2rem]'>We believe in freedom & happiness!</h2>
 
 
 
