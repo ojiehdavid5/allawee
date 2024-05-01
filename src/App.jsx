@@ -13,15 +13,15 @@ function App() {
 
 
     < >
-    {/* <div className="max-lg:flex max-lg:items-center   ">
+    <div className="   ">
     <Home/>
 
-    </div> */}
-      <Personal/>
+    </div>
+      {/* <Personal/> */}
 
 
 
-      
+
       
       
     </>
