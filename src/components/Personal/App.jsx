@@ -15,7 +15,7 @@ const App = () => {
   }, []); // Empty dependency array if you want the effect to run only once on component mount
   return (
     <div>
-    <div className="flex flex-row mt-[5rem] items-center justify-center min-h-screen max-lg:block  max-lg:w-full max-lg:mt-[10rem]">
+    <div className="flex flex-row mt-[5rem] items-center justify-center min-h-screen max-lg:block  max-lg:w-full max-lg:mt-[10rem] mb-9">
       <div className="max-lg:flex max-lg:w-[10rem]  max-lg:-mt-[5rem] max-lg:mb-[20rem] sm:hidden">
       <img src={phone1} className="w-[20rem]"data-aos="fade-right" alt="phone1" />
             <img src={phone2} data-aos="fade-left"alt="phone2"/>
@@ -45,7 +45,7 @@ const App = () => {
           we have successfully processed over N2.5b in
            business payments for our customers
         </p>
-        <span className="flex flex-row justify-center  items-center mt-9 ">
+        <span className="flex flex-row justify-center  items-center mb-[5rem] ">
           <p className="text-white">
             see for yourself
           </p>
@@ -59,7 +59,7 @@ const App = () => {
     </div>
     <div className="min-w-screen py-[32px] px-[96px] h-[10rem] rounded-md bg-[#b8caac40] border border-[#dbfdc840] -mt-[9rem] max-lg:w-full max-lg:h-[4rem] max-lg:-mt-[6rem]">
 
-        <div className=" w-[70rem] h-[5rem]   bg-[#0B1032] border border-[#DBFDC8] rounded-md flex justify-center items-center  max-lg:w-[18rem] max-lg:h-[3rem] max-lg:-mt-[1.5rem]  max-lg:-ml-[4rem]">
+        <div className=" w-[70rem] h-[5rem]   bg-[#0B1032] border border-[#DBFDC8] rounded-md flex justify-center items-center  max-lg:w-[18rem] max-lg:h-[3rem] max-lg:-mt-[1.5rem]  max-lg:-ml-[5.5rem]">
 <h2 className="text-4xl max-lg:text-[15px] text-[#C6A0D2]">Where every $ writes it story </h2>
         </div>
 
