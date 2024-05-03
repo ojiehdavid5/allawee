@@ -20,8 +20,8 @@ const Personal = () => {
 
 <App/>
 <Tourist/>
-<Uses/>
-{/* <Faq/>
+{/* <Uses/>
+<Faq/>
 <Slide/>
 <Importance/>
 <Social/>
