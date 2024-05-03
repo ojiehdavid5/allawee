@@ -19,10 +19,10 @@ const Uses = () => {
   return (
     <div className='mt-[25rem] flex flex-col justify-center items-center  ]'>
     <img src={Skate}
-    className=' aspect-[208/48]  max-w-full h-full object-cover box-border overflow-hidden p-0 mt-0 z-[99] absolute   max-lg:absolute max-lg:-bottom-[162rem] w-[30rem] left-[20rem]  max-lg:-left-[4rem]'
+    className=' aspect-[208/48]  max-lg:hidden max-w-full h-full object-cover box-border overflow-hidden p-0 mt-0 z-[99] absolute   max-lg:absolute max-lg:-bottom-[162rem] w-[30rem] left-[20rem]  max-lg:-left-[4rem]'
      alt='skate'/>
     <img src={icecream}
-    className=' aspect-[208/48]  max-w-full h-[25rem] object-cover box-border overflow-hidden p-0 mt-0 z-[99] absolute -bottom-[143rem] w-[15rem]  left-[45rem] flex justify-center items-center '
+    className=' aspect-[208/48]  max-lg:hidden max-w-full h-[25rem] object-cover box-border overflow-hidden p-0 mt-0 z-[99] absolute -bottom-[143rem] w-[15rem]  left-[45rem] flex justify-center items-center '
      alt='skate'/>
     <img src={eee}
     className=' aspect-[208/48] max-lg:hidden max-w-full h-[10rem] object-cover box-border overflow-hidden p-0 mt-0 z-[99] absolute -bottom-[150rem] max-lg:bottom-[195rem] w-[10rem]  left-[70rem]  flex justify-center items-center '
