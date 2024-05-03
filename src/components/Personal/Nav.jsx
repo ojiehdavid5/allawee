@@ -5,7 +5,7 @@ const Nav = () => {
   return (
     <header className='w-full h-[6rem] flex justify-center items-center'>
     <nav className='w-full h-16 flex flex-row gap-[25rem]  items-center'>
-      <div className='flex gap-3'>
+      <div className='flex gap-3 max-lg:hidden'>
       <h1 className='text-2xl text-white ml-1'>
         App Store
       </h1>
@@ -15,7 +15,9 @@ const Nav = () => {
         </h1>
         </div>
 
-   <img src={ee} alt='logo'/>
+   <img src={ee}
+   className='max-lg:flex max-lg:ml-[7rem]'
+   alt='logo'/>
 
 
 
