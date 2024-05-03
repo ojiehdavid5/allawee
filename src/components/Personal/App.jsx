@@ -32,7 +32,7 @@ const App = () => {
           Meet Allawee, your personal money buddy that lets you
            spend like a local in any country.
         </p>
-        <div className="flex flex-row space-x-4  max-lg:w-[10rem] max-lg:-mt-[3rem] ">
+        <div className="flex flex-row space-x-4  max-lg:w-[10rem] max-lg:-mt-[3rem]  ">
           <img src={Appstore} className="image w-[15rem] "    alt="appstore" />
 
           <img src={Googleplay} className="image w-[15rem]" alt="googleplay" />
