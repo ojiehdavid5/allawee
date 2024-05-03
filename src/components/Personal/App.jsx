@@ -57,13 +57,13 @@ const App = () => {
       className="max-lg:hidden"
       data-aos="fade-left"alt="phone2"/>
     </div>
-    {/* <div className="min-w-screen py-[32px] px-[96px] h-[10rem] rounded-md bg-[#b8caac40] border border-[#dbfdc840] -mt-[9rem]">
+    <div className="min-w-screen py-[32px] px-[96px] h-[10rem] rounded-md bg-[#b8caac40] border border-[#dbfdc840] -mt-[9rem] max-lg:w-full max-lg:h-[4rem] max-lg:-mt-[6rem]">
 
-        <div className=" w-[70rem] h-[5rem]   bg-[#0B1032] border border-[#DBFDC8] rounded-md flex justify-center items-center">
-<h2 className="text-4xl text-[#C6A0D2]">Where every $ writes it story </h2>
+        <div className=" w-[70rem] h-[5rem]   bg-[#0B1032] border border-[#DBFDC8] rounded-md flex justify-center items-center  max-lg:w-[18rem] max-lg:h-[3rem] max-lg:-mt-[1.5rem]  max-lg:-ml-[4rem]">
+<h2 className="text-4xl max-lg:text-[15px] text-[#C6A0D2]">Where every $ writes it story </h2>
         </div>
 
-      </div> */}
+      </div>
 
     </div>
 

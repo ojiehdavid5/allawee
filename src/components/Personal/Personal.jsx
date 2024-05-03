@@ -19,9 +19,9 @@ const Personal = () => {
 <Hero/>
 
 <App/>
-{/* <Tourist/>
+<Tourist/>
 <Uses/>
-<Faq/>
+{/* <Faq/>
 <Slide/>
 <Importance/>
 <Social/>
