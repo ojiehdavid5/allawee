@@ -5,7 +5,12 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+        title:['Syne',"sans-serif"],
+        header:['Jersey' ,'sans serif']
+      }
+    },
   },
   plugins: [
     require('taos/plugin')
