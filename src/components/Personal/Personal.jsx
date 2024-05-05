@@ -14,7 +14,7 @@ import Footer from './Footer'
 import Slide from './Slide'
 const Personal = () => {
   return (
-    <div className='mx-10   mih-h-screen'>
+    <div className='   mih-h-screen'>
         <Nav/>
 <Hero/>
 
