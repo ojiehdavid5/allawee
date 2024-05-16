@@ -13,11 +13,11 @@ function App() {
 
 
     < >
-    {/* <div className="   ">
+    <div className="   ">
     <Home/>
 
-    </div> */}
-      <Personal/>
+    </div>
+      {/* <Personal/> */}
 
 
 
