@@ -38,10 +38,10 @@ const App = () => {
           <img src={Googleplay} className="image w-[15rem]" alt="googleplay" />
         </div>
 
-        <h3 className="text-4max-lg font-bold text-[#DBFAC8] mt-12 text-center mb-6 max-lg:text-2max-lg ">
+        <h3 className="text-4xl font-bold text-[#DBFAC8] mt-12 text-center mb-6 max-lg:text-2xl ">
           You're in good company
         </h3>
-        <p className="text-2max-lg text-white text-center leading-7 max-lg:text-[20px]   font-header">
+        <p className="text-2xl text-white text-center leading-7 max-lg:text-[20px]   font-header">
           we have successfully processed over N2.5b in
            business payments for our customers
         </p>
@@ -60,7 +60,7 @@ const App = () => {
     <div className="min-w-screen py-[32px] px-[96px] h-[10rem] rounded-md bg-[#b8caac40] border border-[#dbfdc840] -mt-[9rem] max-lg:w-full max-lg:h-[4rem] max-lg:-mt-[6rem]">
 
         <div className=" w-[70rem] h-[5rem]   bg-[#0B1032] border border-[#DBFDC8] rounded-md flex justify-center items-center  max-lg:w-[18rem] max-lg:h-[3rem] max-lg:-mt-[1.5rem]  max-lg:-ml-[5.5rem]">
-<h2 className="text-4max-lg max-lg:text-[15px] text-[#C6A0D2]">Where every $ writes it story </h2>
+<h2 className="text-4xl max-lg:text-[15px] text-[#C6A0D2]">Where every $ writes it story </h2>
         </div>
 
       </div>
