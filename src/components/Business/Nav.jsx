@@ -3,10 +3,10 @@ import Logo from '../../assets/Business/logo.svg'
 
 const Nav = () => {
   return (
-    <div className='h-[7rem] w-full flex justify-center items-center'>
-      <div className="flex flex-row justify-between items-center  w-[60rem] h-[4rem] gap-[6rem]">
+    <div className='h-[7rem] flex justify-center items-center bg-[#0000]'>
+      <div className="flex flex-row justify-between items-center   gap-[6rem]  bg-[#0000]">
         <img src={Logo} className=''/>
-        <div className=" flex flex-row justify-between items-center  gap-[8rem]">
+        <div className=" flex flex-row justify-between items-center  gap-[3rem] text-[#ffff]">
         <p >Features</p>
         <p>About</p>
         <p>Pricing</p>
@@ -14,9 +14,9 @@ const Nav = () => {
 
         </div>
 
-        <div className="flex flex-row justify-between items-center">
-          <button>Log in</button>
-          <button>create an account</button>
+        <div className="flex flex-row justify-between items-center gap-8">
+          <button className='p-3 px-6 text-[#ffff] border-[1px] rounded-sm'>Log in</button>
+          <button className='p-2 rounded-sm bg-[#fff] text-[#000]'>create an account</button>
         </div>
 
 
