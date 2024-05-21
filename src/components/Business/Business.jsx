@@ -6,8 +6,8 @@ import Hero from './Hero'
 
 const Business = () => {
   return (
-    <div>
-        <Nav/>
+    <div className='bg-[#0000]'>
+        <Nav className='bg-[#ffff]'/>
         <Hero/>
         
         <About/>
