@@ -4,6 +4,9 @@ import Home from './components/Home/Home'
 
 import Personal from './components/Personal/Personal'
 
+import Business from './components/Business/Business'
+
+
 function App() {
   // useEffect(()=>{
   //   AOS.init();
@@ -17,7 +20,9 @@ function App() {
     <Home/>
 
     </div> */}
-      <Personal/>
+      {/* <Personal/> */}
+
+      <Business/>
 
 
 
