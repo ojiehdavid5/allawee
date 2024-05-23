@@ -23,7 +23,7 @@ with limits you've set</p>
 
         </div>
         <div className='flex flex-row-reverse justify-center items-center text-[#fff] gap-[5rem] mb-[9rem] '>
-            <img src={KFC}    className='w-[35%] h-1/2' alt='pics'/>
+            <img src={KFC}    className='w-[50%] h-1/2' alt='pics'/>
             <div className="flex flex-col gap-[2rem]">
                 <h1 className='text-4xl font-bold'>Unlimited Company<br/>
 Expense Cards</h1>
@@ -40,7 +40,7 @@ with limits you've set</p>
         </div>
       
         <div className='flex flex-row justify-center items-center text-[#fff] gap-[5rem] mb-[9rem] '>
-            <img src={Virtual}    className='w-[35%] h-1/2' alt='pics'/>
+            <img src={Virtual}    className='w-[50%] h-1/2' alt='pics'/>
             <div className="flex flex-col gap-[2rem]">
                 <h1 className='text-4xl font-bold'>Unlimited Company<br/>
 Expense Cards</h1>
@@ -56,7 +56,7 @@ with limits you've set</p>
 
         </div>
         <div className='flex flex-row-reverse justify-center items-center text-[#fff] gap-[5rem] mb-[9rem] '>
-            <img src={Virtual}    className='w-[35%] h-1/2' alt='pics'/>
+            <img src={Virtual}    className='w-[50%] h-1/2' alt='pics'/>
             <div className="flex flex-col gap-[2rem]">
                 <h1 className='text-4xl font-bold'>Unlimited Company<br/>
 Expense Cards</h1>
