@@ -3,14 +3,18 @@ import Nav from './Nav'
 
 import Hero from './Hero'
  import  About from './About'
+ import Reconcile from './Reconcile';
+ import Unlimited from './Unlimited'
 
 const Business = () => {
   return (
-    <div className='bg-[#0000]'>
-        <Nav className='bg-[#ffff]'/>
+    <div className='bg-[#000]'>
+        <Nav className=''/>
         <Hero/>
         
         <About/>
+        <Reconcile/>
+        <Unlimited/>
 
 
 
