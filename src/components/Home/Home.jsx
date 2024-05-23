@@ -5,10 +5,21 @@ import Info from './Info'
 import Bottom from './Bottom'
 import Footer from './Footer'
 
+// #DBFDC8
+// #ADECCF
+// #0D1F23
+// #E5E7EB
+// #D6B9FC
+// #FFFFFF
+// rgba(255, 255, 255, 0.8)
+// #F9F9F9
+// #000000
+// rgba(0, 0, 0, 0.18)
+
 const Home = () => {
   return (
 
-          <div className='sm:mx-[5rem] max-lg:ml-[2rem]  max-lg:mr-[2rem]  '>
+          <div className='max-lg:ml-[2rem]   bg-[#0D1F23]  '>
       <Nav/>
       <Hero/>
     <Info/>
