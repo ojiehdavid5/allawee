@@ -7,9 +7,10 @@ import Hero from './Hero'
  import Unlimited from './Unlimited'
  import Faq from './Faq'
 
+
 const Business = () => {
   return (
-    <div className='bg-[#000]'>
+    <div className='bg-[#000] xl:px-44 2xl:px-64 md:px-12 px-8 overflow-hidden'>
         <Nav className=''/>
         <Hero/>
         
