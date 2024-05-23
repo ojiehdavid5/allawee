@@ -5,6 +5,7 @@ import Hero from './Hero'
  import  About from './About'
  import Reconcile from './Reconcile';
  import Unlimited from './Unlimited'
+ import Faq from './Faq'
 
 const Business = () => {
   return (
@@ -15,6 +16,7 @@ const Business = () => {
         <About/>
         <Reconcile/>
         <Unlimited/>
+        <Faq/>
 
 
 
