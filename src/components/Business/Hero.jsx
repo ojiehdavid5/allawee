@@ -15,7 +15,7 @@ Businesses</h1>
 reimbursements to Allawee</p>
 
 <div className="">
-  <input type='' className='p-5 w-[20rem] bg-transparent border border-[#ffff]' placeholder='Enter your email'/>
+  <input type='' className='p-5 w-[20rem] bg-transparent border border-[#ffff] text-[#fff] font-bold text-2xl' placeholder='Enter your email'/>
   <button className='p-5 h-[4.1rem] bg-[#ffff]'> Get Started for Free</button>
 
 </div>
