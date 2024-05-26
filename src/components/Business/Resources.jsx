@@ -29,11 +29,25 @@ payment card</p>
 
 
 
-<div className='flex flex-col justify-center items-center mt-[5rem] min-h-screen  min-w-screen'>
+<div className='flex flex-col justify-center items-center mt-[5rem] min-h-screen  min-w-screen space-y-[7rem]'>
         <span className='w-[80rem] h-[0.12rem] bg-[#ffff]'>
           
         </span>
-      
+        <h1 className='text-5xl text-[#fff]'>Ready to take contol of<br/> your company's spending?</h1>
+
+
+
+        <div className="">
+  <input type='' className='p-5 w-[20rem] bg-transparent border border-[#ffff] text-[#fff] font-bold text-2xl' placeholder='Enter your email'/>
+  <button className='p-5 h-[4.1rem] bg-[#ffff]'> Get Started for Free</button>
+  <p className='text-[#6B7280] text-1xl'>Open an account in less time than it takes to fill out reconcilation and reimbursement forms</p>
+
+</div>
+
+
+<span className='w-[80rem] h-[0.12rem] bg-[#ffff]'>
+          
+          </span>
     </div>
 
         
