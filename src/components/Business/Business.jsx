@@ -6,6 +6,7 @@ import Hero from './Hero'
  import Unlimited from './Unlimited'
  import Trust from './Trust'
  import Resources from './Resources'
+ import Ready from './Ready'
 
 //  xl:px-44 2xl:px-64 md:px-12 px-8 overflow-hidden
 
