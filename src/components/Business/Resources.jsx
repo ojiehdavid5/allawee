@@ -25,6 +25,10 @@ payment card</p>
 <p className='text-[#fff] text-[18px]  mr-[4rem]'>The difference between a Business & Personal<br/>
 payment card</p>
   </div>
+
+
+
+  
 </div>
 
 
