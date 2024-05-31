@@ -37,16 +37,22 @@ payment card</p>
         <span className='w-[80rem] h-[0.12rem] bg-[#ffff]'>
           
         </span>
-        <h1 className='text-5xl text-[#fff]'>Ready to take contol of<br/> your company's spending?</h1>
+        <div className=" flex  justify-center items-center flex-col">
+        <h1 className='text-5xl text-[#fff] mb-[3rem] text-center'>Ready to take contol of<br/> your company's spending?</h1>
 
 
 
-        <div className="">
-  <input type='' className='p-5 w-[20rem] bg-transparent border border-[#ffff] text-[#fff] font-bold text-2xl' placeholder='Enter your email'/>
-  <button className='p-5 h-[4.1rem] bg-[#ffff]'> Get Started for Free</button>
+        <div className=" flex items-center justify-center flex-col gap-4">
+          <div className="">
+          <input type='' className='p-3 w-[25rem] bg-transparent border border-[#ffff] text-[#fff] font-bold text-2xl rounded-sm' placeholder='Enter your email'/>
+  <button className='p-3 h-[3.5rem] bg-[#ffff]'> Get Started for Free</button>
+
+          </div>
   <p className='text-[#6B7280] text-1xl'>Open an account in less time than it takes to fill out reconcilation and reimbursement forms</p>
 
 </div>
+
+        </div>
 
 
 <span className='w-[80rem] h-[0.12rem] bg-[#ffff]'>
