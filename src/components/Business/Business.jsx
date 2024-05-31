@@ -7,6 +7,7 @@ import Hero from './Hero'
  import Trust from './Trust'
  import Resources from './Resources'
  import Ready from './Ready'
+ import Footer from './Footer';
 
 //  xl:px-44 2xl:px-64 md:px-12 px-8 overflow-hidden
 
@@ -24,6 +25,7 @@ const Business = () => {
         <Trust/>
         <div className="bg-[#000]">
         <Resources/>
+        <Footer/>
 
         </div>
 
