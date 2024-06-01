@@ -38,7 +38,6 @@ const Footer = () => {
                     <li className='mb-3' >Physical Cards</li>
                     <li className='mb-3' >Physical Cards</li>
                     <li className='mb-3' >Physical Cards</li>
-                    <li className='mb-3' >Physical Cards</li>
                 </ul>
             </div>
             <div className="">
