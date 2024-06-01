@@ -7,9 +7,12 @@ import twitter from '../../assets/personal/Twitter.svg'
 
 const Footer = () => {
   return (
-    <div className='min-h-screen flex flex-row  items-center justify-center'>
-        <div className=" flex flex-col items-center justify-center">
-            <img src={logo}  className='w-[12%]'   alt=''/>
+    <div className=""> 
+
+
+<div className='min-h-screen flex flex-row  items-center justify-center gap-[10rem]'>
+        <div className=" flex flex-col items-center justify-center gap-7">
+            <img src={logo}  className='w-[50%]'   alt=''/>
             <h1 className='text-[#fff]'>Built in Lagos and san Francisco</h1>
 
             <div className=" flex flex-row gap-4">
@@ -40,16 +43,22 @@ const Footer = () => {
                     <li className='mb-3' >Physical Cards</li>
                 </ul>
             </div>
-            <div className="">
-            <p>Features</p>
-                <ul>
-                    <li>Physical Cards</li>
+
+            <div className=" flex flex-col gap-9 mb-[9rem]">
+                <p>Features</p>
+                <ul >
+                    <li className='mb-3' >Physical Cards</li>
+                    <li className='mb-3' >Physical Cards</li>
+                    <li className='mb-3' >Physical Cards</li>
                 </ul>
             </div>
-            <div className="">
-            <p>Features</p>
-                <ul>
-                    <li>Physical Cards</li>
+
+            <div className=" flex flex-col gap-9 mb-[9rem]">
+                <p>Features</p>
+                <ul >
+                    <li className='mb-3' >Physical Cards</li>
+                    <li className='mb-3' >Physical Cards</li>
+                    <li className='mb-3' >Physical Cards</li>
                 </ul>
             </div>
 
@@ -57,6 +66,10 @@ const Footer = () => {
         </div>
 
     </div>
+    
+    </div>
+    
+  
   )
 }
 
