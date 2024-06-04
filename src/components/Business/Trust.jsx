@@ -56,7 +56,10 @@ software subscriptions, & Ads all in app ©</p>
 
 
 
-        
+
+
+
+
 
 
       </div>
