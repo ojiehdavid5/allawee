@@ -55,6 +55,10 @@ software subscriptions, & Ads all in app ©</p>
         <img src={emma} className='w-[30%] z-[99] -mb-[7rem]' alt=''/>
 
 
+
+        
+
+
       </div>
 
     </div>
