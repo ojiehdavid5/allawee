@@ -3,7 +3,7 @@ import currency from '../../assets/Business/currency.png'
 
 const Resources = () => {
   return (
-    <div className='flex flex-col items-center justify-center min-h-[20rem]'> 
+    <div className='flex flex-col items-center justify-center min-h-[20rem] z-[0]'> 
 <h1 className='text-[#fff] mr-[50rem]' >Resources from Allawee<br/>
 for Founders & Leaders</h1>
 <div className="flex flex-row justify-center items-center">
