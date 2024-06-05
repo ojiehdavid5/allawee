@@ -22,6 +22,8 @@ function App() {
     </div> */}
       {/* <Personal/> */}
 
+      
+
       <Business/>
 
 
