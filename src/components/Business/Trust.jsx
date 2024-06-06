@@ -32,6 +32,9 @@ const Trust = () => {
         <img src={carbon} alt=''/>
 
 
+        
+
+
       </div>
 
 
