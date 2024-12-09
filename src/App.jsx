@@ -7,6 +7,10 @@ import Personal from './components/Personal/Personal'
 import Business from './components/Business/Business'
 
 
+
+
+
+
 function App() {
   // useEffect(()=>{
   //   AOS.init();
