@@ -7,6 +7,8 @@ const Hero = () => {
 
 
 
+
+
 </p>
 <h1 className='mt-5 font-bold text-[10rem]  max-lg:text-[2rem] max-lg:text-center tracking-[-1rem] font-title max-lg:w-[20rem] max-lg:tracking-[0rem] hover:tracking-wide text-[#DBFAC8] font-bebas-neue '>YOUR MONEY.</h1>
 <h1 className='mt-5 font-bold text-[10rem] max-lg:text-[2rem] tracking-tighter font-title  hover:tracking-wide text-[#DBFAC8]'>YOUR WAY.</h1>
