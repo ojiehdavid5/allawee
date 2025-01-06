@@ -16,6 +16,9 @@ import Footer from './Footer'
 // #000000
 // rgba(0, 0, 0, 0.18)
 
+
+
+
 const Home = () => {
   return (
 
